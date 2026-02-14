@@ -1,2 +1,2 @@
-# learning-js-everdau
+# learning-js-everday
 learning js in 26
